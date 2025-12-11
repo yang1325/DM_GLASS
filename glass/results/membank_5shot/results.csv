@@ -1,0 +1,3 @@
+Row Names,image_auroc,image_ap,pixel_auroc,pixel_ap,pixel_pro,best_epoch
+mvtec_transistor,0.5,0.4,0.5,0.04595570505401234,0.0,2329
+Mean,0.5,0.4,0.5,0.04595570505401234,0.0,2329.0
